@@ -1,0 +1,1000 @@
+   28  git config --list
+   29  ls -lrt
+   30  ll
+   31  git status
+   32  cd
+   33  git init
+   34  ls -lrt
+   35  exit
+   36  cd firstname
+   37  git status
+   38  cd
+   39  git status
+   40  cd gitfiles
+   41  cd 
+   42  cd firstfiles
+   43  cd firstfile
+   44  cd firstname
+   45  ls
+   46  ls -lrt
+   47  git status
+   48  cd
+   49  cd devops
+   50  ls -lrt
+   51  cp -r /home/ec2-user/devops/* /home/ec2-user/firstname/
+   52  cd
+   53  cd firstname
+   54  ls -lrt
+   55  git status
+   56  git ls -lrt
+   57  cd
+   58  crontab -e
+   59  cd firstname
+   60  git ls -lrt
+   61  ls -lrt
+   62  git init
+   63  git status
+   64  git config --list
+   65  git remote -v
+   66  git remote add origin https://github.com/veena190-raju/firstname.git
+   67  git remote -v
+   68  git add file1.sh
+   69  git status
+   70  git commit
+   71  git commit -m "this is my first commit"
+   72  git push
+   73  git push --set-upstream origin master
+   74  git add *
+   75  git status
+   76  git commit -m "this is my second commit"
+   77  git push
+   78  git remote add origin git@github.com:veena190-raju/firstname.git
+   79  git remote -v
+   80  cd
+   81  cd .ssh
+   82  ls -lrt
+   83  cat id_rsa.pub
+   84  cd
+   85  cd firstname
+   86  git remote add origin git@github.com:veena190-raju/firstname.git
+   87  git remote set-url origin git@github.com:veena190-raju/firstname.git
+   88  git remote -v
+   89  git push
+   90  git status
+   91  vi gitfile
+   92  git status
+   93  ls -lrt
+   94  git pull
+   95  ls -lrt
+   96  cd
+   97  mkdir git
+   98  cd git
+   99  git clone https://github.com/veena190-raju/firstname/tree/master
+  100  git init
+  101  git clone https://github.com/veena190-raju/firstname/tree/master
+  102  git remote set-url origin git@github.com:veena190-raju/firstname.git
+  103  git remote -v
+  104  exit
+  105  cd firstname
+  106  gt status
+  107  git status
+  108  git init
+  109  ls -lrt
+  110  cd
+  111  mkdir gitfiles
+  112  cd gitfiles
+  113  cd
+  114  git init
+  115  ls -lrt
+  116  cd .git
+  117  ls -lrt
+  118  cat config
+  119  cd
+  120  cd gitfiles
+  121  git config --global user.name "veen190-raju
+  122  git config --global user.name "veen190-raju"
+  123  git config --global user.name "veen190-raju"
+  124  git config --global user.email "veenarajappa190@gmail.com"
+  125  git status
+  126  git branch -m master
+  127  ls
+  128  ls -lrt
+  129  git add file1
+  130  git add veena.sh
+  131  cd gitfiles
+  132  cd
+  133  cp /home/ec2-user/devops/ /home/ec2-user/gitfiles/
+  134  cd gitfiles
+  135  ls -lrt
+  136  git config --global user.name "veen190-raju"
+  137  git config --global user.email "veenarajappa190@gmail.com"
+  138  git status
+  139  git branch -m master
+  140  ls -lrt
+  141  cd
+  142  cd devops
+  143  ls
+  144  cd
+  145  ls -lrt
+  146  cp -r /home/ec2-user/devops /home/ec2-user/gitfies
+  147  cd gitfiles
+  148  git branch -m master
+  149  git status
+  150  ls -lrt
+  151  git remote add origin git@github.com:veena190-raju/gitfies.git
+  152  git status
+  153  cp ../devops/*
+  154  cd
+  155  cp -r /home/ec2-user/devops/ /home/ec2-user/gitfies/
+  156  cd gitfiles
+  157  ls
+  158  ls -lrt
+  159  ls -lart
+  160  cd
+  161  git --version
+  162  git init
+  163  ls -lart
+  164  cd .git
+  165  la -lrt
+  166  ls -lrt
+  167  cat config
+  168  cd
+  169  cd secondname
+  170  mkdir secondname
+  171  cd secondname
+  172  git status
+  173  git branch -m master
+  174  ls -lrt
+  175  cd
+  176  ls -lrt
+  177  cd devops
+  178  ls -lrt
+  179  vi crontab.sh
+  180  cd
+  181  cd secondname
+  182  ls -lrt
+  183  git status
+  184  crontab -l
+  185  git remote add origin git@github.com:veena190-raju/secondname.git
+  186  git status
+  187  git branch -m master
+  188  ls -lrt
+  189  git add veena.pub
+  190  git config --global user.name "veen190-raju"
+  191  git config --global user.email "veenarajappa190@gmail.com"
+  192  cd
+  193  vi crontab -e
+  194  crontab -e
+  195  crontab -l
+  196  cd secondname
+  197  ls -lrt
+  198  git status
+  199  git status
+  200  ls -lrt
+  201  cd
+  202  cd secondname
+  203  ls -lart
+  204  git config --global user.name "veen190-raju"
+  205  git config --global user.email "veenarajappa190@gmail.com"
+  206  cd
+  207  cp -r /home/ec2-user/devops /home/ec2-user/secondname
+  208  cd secondname
+  209  git status
+  210  git branch -m master
+  211  ls -lrt
+  212  cd
+  213  cp -r /home/ec2-user/devops/* /home/ec2-user/secondname/
+  214  cd secondname
+  215  ls -lrt
+  216  git status
+  217  git add while.sh
+  218  git status
+  219  git commit -m "adding a while.sh"
+  220  git status
+  221  git add while.sh
+  222  git status
+  223  git commit -m "adding a first commit"
+  224  git remote -v
+  225  git push
+  226  git add veena.sh
+  227  git status
+  228  git commit -m "adding a first commit"
+  229  git status
+  230  git remote -v
+  231  git push
+  232  git push --se-upstream origin master
+  233  git push --set-upstream origin master
+  234  git remote add origin git@github.com:veena190-raju/secondname.git
+  235  git init
+  236  git remote add origin git@github.com:veena190-raju/secondname.git
+  237  git status
+  238  git commit -m "adding a first commit"
+  239  git remote -v
+  240  git push
+  241   git push --set-upstream origin master
+  242  git status
+  243  git add *
+  244  git remote -v
+  245  git pull
+  246  git push
+  247  git remote -v
+  248  git remote set-url origin git@github.com:veena190-raju/secondname.git
+  249  git remote -v
+  250  git pull
+  251  git push
+  252  git status
+  253  git log
+  254  git log while.sh
+  255  git log -2
+  256  ls -lrt
+  257  git status
+  258  git commit -m "adding all files"
+  259  git push
+  260  mkdir repo_git
+  261  cd repo_git
+  262  git clone git@github.com:veena190-raju/secondname.git
+  263  ls -lrt
+  264  cd secondname
+  265  ls -lrt
+  266  echo "abcd.txt" >xyz
+  267  git status
+  268  git add *
+  269  git status
+  270  git commit -m "adding file xyz"
+  271  git push
+  272  cd git_repo
+  273  cd repo_git
+  274  cd secondname
+  275  vi file
+  276  git status
+  277  git add file
+  278  git status
+  279  git commit -m "adding modified file"
+  280  ls
+  281  git commit -m "adding modified file"
+  282  cat crontab.sh
+  283  cat lin.shy
+  284  cat lin.sh
+  285  cat v1
+  286  git rm v1
+  287  ls
+  288  git status
+  289  git push
+  290  git add *
+  291  git status
+  292  git commit -m "deleting file v1"
+  293  git push
+  294  git tag V1.0
+  295  git push --tag
+  296  ls
+  297  cat v2
+  298  git rm v2
+  299  cat file
+  300  git rm file
+  301  cat xyz
+  302  cat c
+  303  git rm c
+  304  git status
+  305  git commit -m "removing unwanted files"
+  306  git push
+  307  git tag
+  308  git log
+  309  git checkout V1.0
+  310  git status
+  311  git checkout dd5504cee6cf7bc9ebd534596bf703d7020f4c33
+  312  git status
+  313  git checkout master
+  314  git switch -
+  315  git checkout master
+  316  git tag
+  317  git tag V1.1
+  318  git tag V1.2
+  319  git tag V1.3
+  320  git tag --tags
+  321  git tag --tag
+  322  git push --tag
+  323  git log --oneline
+  324  git branch V1.1
+  325  git branch
+  326  git checkout V1.1
+  327  git log --oneline
+  328  git push
+  329   git push --set-upstream origin V1.1
+  330  git branch -m version_1
+  331  git branch
+  332   git push --set-upstream origin version.1
+  333  git push
+  334  git push --set-upstream origin version_1
+  335  git checkout master
+  336  git merge version_1
+  337  git log --oneline
+  338  git push
+  339  git checkout -b version_2
+  340  git branch
+  341  git log --oneline
+  342  ls
+  343  cat empty
+  344  git rm empty
+  345  git status
+  346  git commit -m "removing empty file"
+  347  git push
+  348  git push --set-upstream origin version_2
+  349  git checkout master
+  350  git merge version_2
+  351  git log --oneline
+  352  git push
+  353  git checkout test
+  354  cd firstname
+  355  git push
+  356  git log --oneline
+  357  git branch
+  358  cd
+  359  cd gitmerge
+  360  cd firstname
+  361  git branch
+  362  git merge version_2
+  363  git branch
+  364  ls
+  365  vi githubfile
+  366  git status
+  367  git add *
+  368  git commit -m "adding a new line to file"
+  369  git push
+  370  vi word.sh
+  371  git status
+  372  git add *
+  373  git commit -m "modified a file word.sh"
+  374  git push
+  375  git branch
+  376  git checkout -b feature1
+  377  git checkout -b feature2
+  378  ls
+  379  vi crontab.sh
+  380  git status
+  381  git add *
+  382  git commit -m "modified a crontab"
+  383  git push
+  384   git push --set-upstream origin feature2
+  385  vi file5
+  386  git add *
+  387  git commit -m "add file5"
+  388  git push
+  389  git log
+  390  git switch -
+  391  git log
+  392  vi file.sh
+  393  git status
+  394  git commit -m "changed format of file.sh"
+  395  git push
+  396  git commit -m "changed format of file.sh"
+  397  git add *
+  398  git commit -m "changed format of file.sh"
+  399  git push
+  400  git branch
+  401  git rebase feature2
+  402  git push
+  403  git pull
+  404  git config pull.rebase true  
+  405  git pull
+  406  git push
+  407  git rebase feature1
+  408  git push
+  409  git pull
+  410  git push
+  411  exit
+  412  ls
+  413  mkdir gitmerge
+  414  cd gitmerge
+  415  git clone url git@github.com:veena190-raju/firstname.git
+  416  git clone git@github.com:veena190-raju/firstname.git
+  417  ls -lrt
+  418  cd firstname
+  419  ls -lrt
+  420  echo "abcd" >abc
+  421  git status
+  422  git add *
+  423  git status
+  424  git commit -m "adding a file abc"
+  425  git push
+  426  ls
+  427  git rm v1
+  428  git status
+  429  git commit -m "removing file v1"
+  430  git push
+  431  git tag v1.0
+  432  git push --tag
+  433  ls
+  434  git rm v2
+  435  git status
+  436  git commit -m "removing file v2"
+  437  git push
+  438  ls
+  439  git rm veen.shy
+  440  git rm c
+  441  git status
+  442  git commit -m "deleting unwanted files"
+  443  git push
+  444  git log
+  445  git tag
+  446  git checkout v1.0
+  447  git log --oneline
+  448  git status
+  449  git checkout master
+  450  git status
+  451  git tag
+  452  git tag v1.1
+  453  git tag v1.2
+  454  git push --tag
+  455  git log --oneline
+  456  git tag
+  457  git branch version_1
+  458  git branch 
+  459  git checkout version_1
+  460  git branch 
+  461  git log --oneline
+  462  ls
+  463  git rm empty
+  464  git status
+  465  git commit -m "removing empty file"
+  466  git push
+  467  git push --set-upstream origin version_1
+  468  git branch 
+  469  git checkout master
+  470  git branch 
+  471  git merge version_1
+  472  git log --oneline
+  473  git push
+  474  git chechout -b version_2
+  475  git branch 
+  476  git checkout -b version_2
+  477  git branch 
+  478  git log --oneline
+  479  git branch 
+  480  git push
+  481  git push --set-upstream origin version_2
+  482  ls
+  483  cat file
+  484  vi file
+  485  git status
+  486  git add *
+  487  git commit -m "modified one file"
+  488  git push
+  489  git checkout version_1
+  490  git che
+  491  git checkout version_2
+  492  git log --oneline
+  493  git push
+  494  git branch
+  495  git checkout version_1
+  496  git merge version_2
+  497  git log --oneline
+  498  git push
+  499  git pull
+  500  gs
+  501  git status
+  502  git switch -
+  503  git checkout master
+  504  git switch -
+  505  git branch feature1
+  506  git branch
+  507  vi example.sh
+  508  git status
+  509  git add *
+  510  git commit -m "adding a new script"
+  511  git push
+  512  ls
+  513  git status
+  514  git add *
+  515  git commit -m "content modified in a file"
+  516  git push
+  517  git branch
+  518  git switch -
+  519  git checkout feature1
+  520  vi example1
+  521  git status
+  522  git add *
+  523  git commit -m "created a new file"
+  524  git push
+  525  git push --set-upstream origin feature1
+  526  git push
+  527  git switch -
+  528  git pull
+  529  git branch
+  530  ls
+  531  vi file1
+  532  git status
+  533  git add file1
+  534  git commit -m "modifying file1"
+  535  git push
+  536  git merge feature1
+  537  git push
+  538  ll
+  539  cd ec2
+  540  ll
+  541  cd
+  542  ls -r
+  543  ls vee
+  544  ls 32
+  545  ls git
+  546  ls repo_git
+  547  ls gitmerge
+  548  cp -r /home/ec2-user/vee/ /home/ec2-user/gitfies/
+  549  cd gitfies
+  550  ls
+  551  vi v2
+  552  git status
+  553  git init
+  554  git status
+  555  git add v1
+  556  git status
+  557  git commit -m "adding filev1"
+  558  git push
+  559  git remote -v
+  560  git push
+  561  git clone git@github.com:veena190-raju/gitfies.git
+  562  git push
+  563  git branch -M main
+  564  git branch
+  565  git remote add origin git@github.com:veena190-raju/gitfies.git
+  566  git push
+  567  git push --set-upstream origin main
+  568  git push
+  569  ls
+  570  git rm empty
+  571  vi empty
+  572  git rm empty
+  573  git add empty
+  574  git commit -m "adding one file"
+  575  git push
+  576  git rm empty
+  577  git commit "removing unwanted file"
+  578  git commit -m "removing unwanted file"
+  579  git push
+  580  git log
+  581  ls -lrt
+  582  echo "ABCD.C" > XYZ
+  583  git status
+  584  git add XYZ
+  585  git status
+  586  git commit -m "adding XYZ"
+  587  git push
+  588  git tag tag1.0
+  589  git push tag
+  590  git push --tag
+  591  git branch branch1
+  592  git branch
+  593  git checkout branch1
+  594  git log --oneline
+  595  exit
+  596  ls
+  597  cd firstname
+  598  ls
+  599  git diff
+  600  git branch
+  601  cd secondname
+  602  cd gitfile
+  603  git checkout feature1
+  604  cd githubfile
+  605  ls -lrt
+  606  git checkout branch1
+  607  history
+  608  cd repo_git
+  609  git branch
+  610  git clone url git@github.com:veena190-raju/firstname.git
+  611  git clone git@github.com:veena190-raju/firstname.git
+  612  ls -lrt
+  613  cd
+  614  ls -lrt
+  615  cd repo_git
+  616  git clone git@github.com:veena190-raju/firstname.git
+  617  ls -lrt
+  618  cd firstname
+  619  git branch
+  620  cd
+  621  cd repo_git
+  622  cd secondname
+  623  git branch
+  624  cd
+  625  cd firstname
+  626  ls
+  627  git diff master feature1
+  628  cd
+  629  cd gitfies
+  630  cd
+  631  git mv gitfies gitfiles
+  632  mv gitfies gitfiles
+  633  cd gitfiles
+  634  cd
+  635  cd gitfies
+  636  cd gitfiles
+  637  ls
+  638  cd
+  639  cp -r /home/ec2-user/devops/ /home/ec2-user/gitfiles/
+  640  ls -lrt
+  641  ls ec2
+  642  ls vee
+  643  ls linux
+  644  cd gitfiles
+  645  ls
+  646  ls -lrt
+  647  cp -r /home/ec2-user/devops/ /home/ec2-user/gitfiles/
+  648  ls -lrt
+  649  cd
+  650  cp -r /home/ec2-user/devops /home/ec2-user/gitfiles
+  651  cd gitfiles
+  652  git init
+  653  ls -lrt
+  654  ls devops
+  655  exit
+  656  cd gitfiles
+  657  ls -lrt
+  658  cd devops
+  659  ls
+  660  git add 8
+  661  git add *
+  662  git status
+  663  git reset --staged
+  664  git status
+  665  git Head *
+  666  git reset HEAD
+  667  git reset HEAD *
+  668  git reset --HEAD *
+  669  cd
+  670  cd secondname
+  671  git status
+  672  git init
+  673  git branch
+  674  ls
+  675  git branch
+  676  git checkout version_1
+  677  exit
+  678  cd git_repo
+  679  ls
+  680  cd gitmerge
+  681  ls
+  682  cd firstname
+  683  cd
+  684  cd repo_git
+  685  ls
+  686  cd
+  687  cd gitfiles
+  688  ls
+  689  cd
+  690  cd gitmerge
+  691  cd firstname
+  692  git init
+  693  git branch
+  694  git diff 
+  695  git diff master feature1
+  696  git log feature1 master
+  697  git show
+  698  ls
+  699  vi abc
+  700  git status
+  701  git add *
+  702  git status
+  703  git commit -m "modifying abc file"
+  704  git push
+  705  git revert e4cc25f87fed5597665711f405745b6ff9877f97
+  706  git push
+  707  vi abc
+  708  git revert HEAD
+  709  git push
+  710  vi abc
+  711  git log -p
+  712  git show 913dcb3aec4974c6f1de0e45a7780b53221f620a
+  713  git log --stat
+  714  git diff --staged
+  715  git reset HEAD abc
+  716  git status
+  717  git restore --staged
+  718  git add -p
+  719  git reset HEAD file5
+  720  git status
+  721  git branch
+  722  git checkout feature1
+  723  git reset HEAD abc
+  724  git status
+  725  git checkout master
+  726  clear
+  727  vi fact.sh
+  728  git status
+  729  echo "veena" > reset.txt
+  730  git add reset.txt
+  731  git status
+  732  git reset HEAD reset.txt
+  733  git status
+  734  git diff --staged
+  735  git restore --staged
+  736  git log -p
+  737  git log --stat
+  738  ls
+  739  vi lin.shy
+  740  git add lin.shy
+  741  git diff --staged
+  742  git diff lin.shy
+  743  git status
+  744  git reset HEAD lin.shy
+  745  git status
+  746  git add -p
+  747  git status
+  748  git mv lin.shy lin.sh
+  749  git mv lin.shy lin1.sh
+  750  git status
+  751  git commit -m "renaming a file"
+  752  git commit --amend'
+  753  git commit --amend'
+  754  git commit --amend
+  755  git log
+  756  git push
+  757  clear
+  758  git log --graph --oneline
+  759  git log --graph --oneline --all
+  760  clear
+  761  git remote show origin
+  762  git branch -r
+  763  git rebase -i master
+  764  git pull
+  765  git rebase -i HEAD~3
+  766  GIT PUSH
+  767  git push
+  768  git rebase -i HEAD~3
+  769  git status
+  770  git add*
+  771  git add *
+  772  git status
+  773  git commit -m "adding a new files"
+  774  git push
+  775  git rebase -i HEAD~4
+  776  git rebase --continue
+  777  git log
+  778  git push
+  779  git push -f
+  780  git reset --mixed lin1.sh
+  781  git restore giy
+  782  clear
+  783  ls
+  784  repo_git
+  785  cd repo_git
+  786  ls
+  787  cd secondname
+  788  ls
+  789  git status
+  790  git restore --staged
+  791  git restore --staged lin,shy
+  792  vi lin.shy
+  793  git status
+  794  git diff --staged
+  795  git add *
+  796  git diff --staged
+  797  git reset HEAD lin.shy
+  798  git status
+  799  git restore --staged
+  800  git add *
+  801  git status
+  802  git reset HEAD lin.shy
+  803  git status
+  804  git add *
+  805  git restore --staged
+  806  git status
+  807  git restore --staged
+  808  git reset --mixed lin.shy
+  809  git commit -m " modifyed lin.shy"
+  810  git reset --mixed lin.shy
+  811  git push
+  812  git reset --mixed lin.shy
+  813  git status
+  814  git add *
+  815  git status
+  816  git reset --mixed lin.shy
+  817  git status
+  818  git reset --soft lin.shy
+  819  git status
+  820  git reset --soft HEAD~1
+  821  git status
+  822  git add *
+  823  git status
+  824  git commit -m "adding a two commits"
+  825  git push
+  826  git push -f
+  827  git reset --hard 2107f8ec37f787417ccd0ff21bc224f6940056b7
+  828  git push
+  829  git reset --hard f88e893e830eedc55fd44aaacfd32ca6d1629123
+  830  git push
+  831  git push -f
+  832  git reset --soft HEAD~1
+  833  git status
+  834  exit
+  835  ls
+  836  cd gitmerge
+  837  ls
+  838  cd firstname
+  839  git cherry-pick e4cc25f87fed5597665711f405745b6ff9877f97
+  840  git cherry-pick 3d856aa5dfffd011f9f31f4b7ce61d5c5f79ca21
+  841  git commit --allow-empty
+  842  git cherry-pick e4cc25f87fed5597665711f405745b6ff9877f97
+  843  git commit --allow-empty
+  844  git cherry-pick e4cc25f87fed5597665711f405745b6ff9877f97
+  845  git status
+  846  git cherry-pick --continue
+  847  git commit --allow-empty
+  848  cd gitmerge
+  849  cd firstname
+  850  exit
+  851  cd gitmerge
+  852  cd firstname
+  853  ls
+  854  cat file5
+  855  git pull
+  856  cd firstname
+  857  cat file5
+  858  git branch
+  859  ls
+  860  git pull
+  861  git stash
+  862  git pull
+  863  cat file5
+  864  clear
+  865  git fetch
+  866  cat file5
+  867  git branch
+  868  git fetch origin
+  869  git branch -r
+  870  git checkout  origin/master
+  871  cat file5
+  872  git checkout maste
+  873  git merge origin/master
+  874  git pull
+  875  cd gitmerge
+  876  cd firstname
+  877  git branch
+  878  git branch feature1
+  879  git checkout feature1
+  880  git cherry-pick e4cc25f87fed5597665711f405745b6ff9877f97
+  881  git cherry-pick --abort
+  882  git status
+  883  git branch
+  884  git checkout master
+  885  git pull
+  886  ls
+  887  vi crontab.sh
+  888  git status
+  889  git add *
+  890  git reset HEAD crontab.sh
+  891  git status
+  892  git checkout feature1
+  893  git status
+  894  git branch
+  895  git checkout feature1
+  896  git branch
+  897  git checkout feature1
+  898  git stash
+  899  git checkout feature1
+  900  git status
+  901  git checkout master
+  902  git branch
+  903  vi crontab.sh
+  904  git status
+  905  git branch
+  906  git checkout feature1
+  907  git checkout feature2
+  908  git branch
+  909  git status
+  910  git checkout master
+  911  git stash
+  912  git checkout feature1
+  913  git status
+  914  git checkout master
+  915  git status
+  916  git stash pop
+  917  git status
+  918  git clean
+  919  git clean -f
+  920  git status
+  921  git fetch
+  922  cat fetchfile1.txt
+  923  ls
+  924  cd gitmerge
+  925  cd firstname
+  926  git fetch
+  927  git branch
+  928  git switch feature1
+  929  ls
+  930  git branch
+  931  vi file2.sh
+  932  git add *
+  933  git status
+  934  git commit -m "modified some changes"
+  935  git push
+  936  vi example1
+  937  git add *
+  938  git status
+  939  git commit -m "changing some values"
+  940  git push
+  941  git status
+  942  vi for.shc
+  943  git add *
+  944  git status
+  945  git commit -m "adding factorial to the file"
+  946  git push
+  947  git checkout master
+  948  git pull
+  949  git merge --squash feature1
+  950  git log
+  951  git checkout -b f3
+  952  ls
+  953  vi file2.sh
+  954  git add *
+  955  git commit -m "modified changes in file2"
+  956  vi example1
+  957  git add *
+  958  git commit -m "adding two lines"
+  959  vi for.shc
+  960  git add *
+  961  git commit -m "expression added to the file"
+  962  git log
+  963  git push
+  964  git push --set-upstream origin f3
+  965  git switch master
+  966  git merge --squash f3
+  967  git log
+  968  git push
+  969  git status
+  970  git commit -m "merging from f3"
+  971  git push
+  972  git switch feature2
+  973  ls
+  974  vi abc
+  975  git add *
+  976  git commit -m "modification done"
+  977  vi file
+  978  git add *
+  979  git commit -m "changing values in file"
+  980  git log
+  981  git push
+  982  git switch master
+  983  git merge --squash feature2
+  984  git status
+  985  git rm file5
+  986  git status
+  987  git merge --squash feature2
+  988  git push
+  989  git merge --squash feature2
+  990  git log
+  991  git status
+  992  git commit -m "merging from feature2"
+  993  git push
+  994  ls
+  995  cd devops
+  996  ls
+  997  exit
+  998  mkdir 3rdname
+  999  cd 3rdname
+ 1000  git init
+ 1001  git config --global user.name "veena190-raju"
+ 1002  git config --global user.email "veenarajappa190@gmail.com"
+ 1003  cd
+ 1004  history
+ 1005  cp "/home/ec2-user/devops"/* /home/ec2-user/3rdname
+ 1006  cd 3rdname
+ 1007  ls
+ 1008  git status
+ 1009  git branch -M main
+ 1010  git remote add origin git@github.com:veena190-raju/3rdname.git
+ 1011  git add word.sh
+ 1012  git status
+ 1013  git commit -m "adding a file"
+ 1014  git push
+ 1015  git push --set-upstream origin main
+ 1016  git status
+ 1017  git push
+ 1018  git add *
+ 1019  git status
+ 1020  git commit -m "adding all the files"
+ 1021  git push
+ 1022  git status
+ 1023  ls
+ 1024  git branch
+ 1025  git pull
+ 1026  history
+ 1027  history > history.txt
