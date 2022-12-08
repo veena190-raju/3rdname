@@ -121,9 +121,6 @@
   148  git branch -m master
   149  git status
   150  ls -lrt
-  151  git remote add origin git@github.com:veena190-raju/gitfies.git
-  152  git status
-  153  cp ../devops/*
   154  cd
   155  cp -r /home/ec2-user/devops/ /home/ec2-user/gitfies/
   156  cd gitfiles
